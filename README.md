@@ -4,9 +4,9 @@ Below are the repository prefixes and their associated research datasets.
 
 #### Repositoriy Prefixes:
 
-es_ -> Enhanced Screener (ES) <br />
-tx_ -> Treatment Outcomes (TX) <br />
-hcw_ -> Healthcare Worker Pandemic Survey (HCW) <br />
-vet_ -> Veteran Pandemic Survey (VET) <br />
+es_ -> Enhanced Screener <br />
+tx_ -> Treatment Outcomes <br />
+hcw_ -> Healthcare Worker Pandemic Survey  <br />
+vet_ -> Veteran Pandemic Survey <br />
 conf_ -> Confidentiality <br />
 tools_ -> additional resources <br />
